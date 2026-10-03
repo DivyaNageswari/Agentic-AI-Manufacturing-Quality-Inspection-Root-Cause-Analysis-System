@@ -1,0 +1,6 @@
+{
+  "name": "Agentic AI Manufacturing Quality Inspection & Root Cause Analysis System",
+  "description": "An academic and industrial-grade decision-support platform integrating computer vision inspection, statistical process control (SPC), multivariate anomaly detection, RAG incident retrieval, and agentic root cause analysis with human-in-the-loop governance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
